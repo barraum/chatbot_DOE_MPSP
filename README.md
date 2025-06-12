@@ -4,7 +4,6 @@ Este projeto é uma aplicação Streamlit desenvolvida para facilitar a busca e 
 
 **Link para a Aplicação (Streamlit Community Cloud):**
 [https://chatbot-doe-mpsp.streamlit.app/](https://chatbot-doe-mpsp.streamlit.app/) 
-*(Substitua pelo seu link real se for diferente ou se ainda não estiver ativo)*
 
 ## Funcionalidades Principais
 
