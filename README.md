@@ -17,7 +17,7 @@ Este projeto é uma aplicação Streamlit desenvolvida para facilitar a busca e 
 
 ## Como Usar a Aplicação Online
 
-1.  Acesse o link da aplicação: [SEU_LINK_AQUI](https://chatbot-doe-mpsp.streamlit.app/)
+1.  Acesse o link da aplicação: (https://chatbot-doe-mpsp.streamlit.app/)
 2.  Na barra lateral, selecione a data desejada.
 3.  Clique em "Carregar Publicações de [data]".
 4.  A lista de títulos das publicações do MP aparecerá na área principal.
@@ -100,20 +100,3 @@ Sugestões e contribuições são bem-vindas! Se você tem ideias para novas fun
 ## Agradecimentos
 
 *   Agradecimento especial ao assistente de IA que auxiliou no desenvolvimento e depuração deste projeto.
-
----
-
-Este README é um ponto de partida. Sinta-se à vontade para adicionar mais seções, como:
-*   **Screenshots:** Algumas imagens da interface em ação.
-*   **Detalhes Técnicos:** Mais informações sobre a arquitetura, se desejar.
-*   **Roadmap Futuro:** Ideias para funcionalidades futuras.
-*   **Licença:** Se você quiser adicionar uma licença ao seu projeto (ex: MIT, Apache 2.0).
-
-**Como adicionar ao seu GitHub:**
-
-1.  Crie um arquivo chamado `README.md` na pasta raiz do seu projeto `9) CHATBOT DOE GIT`.
-2.  Copie e cole o conteúdo Markdown acima nele.
-3.  Faça as edições necessárias (principalmente o link da aplicação e seu perfil GitHub).
-4.  Faça o commit e push do `README.md` para o seu repositório no GitHub.
-
-Ele aparecerá automaticamente na página principal do seu repositório!
